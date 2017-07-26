@@ -1,25 +1,4 @@
-```
-                    ,____
-                    |---.\
-            ___     |    `
-           / .-\  ./=)
-          |  |"|_/\/|
-          ;  |-;| /_|
-         / \_| |/ \ |
-        /      \/\( |
-        |   /  |` ) |
-        /   \ _/    |
-       /--._/  \    |
-       `/|)    |    /
-         /     |   |
-       .'      |   |
-      /         \  |
-     (_.-.__.__./  /
-```
 
-# Grim
-
-Grim is a simple gem for extracting (reaping) a page from a pdf and converting it to an image as well as extract the text from the page as a string. It basically gives you an easy to use api to ghostscript, imagemagick, and pdftotext specific to this use case.
 
 ## Prerequisites
 
